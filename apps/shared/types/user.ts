@@ -1,4 +1,4 @@
-export type Doctor = {
+export type User = {
   id: string;
   name: string;
 };

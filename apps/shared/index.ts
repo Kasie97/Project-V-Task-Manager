@@ -1,2 +1,2 @@
-export * from "./types/note";
-export * from "./types/doctor";
+export * from "./types/tasks";
+export * from "./types/user";
